@@ -8,7 +8,6 @@ Cybersecurity & ML Enthusiast
 👨‍💻 **Cybersecurity Practitioner & ML Enthusiast**  
 🔍 Focused on **Threat Intelligence, SOC Operations & Ethical Hacking**  
 🧠 Passionate about **AI for Security & OSINT Investigations**  
-🎓 **CS Graduate | The Catholic University of Eastern Africa**  
 📍 Based in **Nairobi, Kenya**  
 
 🚀 Currently exploring **SIEM, Red Teaming, and Cloud Security**  
