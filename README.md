@@ -18,7 +18,7 @@ Cybersecurity & ML Enthusiast
 ## 🛠️ Tech Stack  
 
 ### 🔹 **Programming & Scripting**  
-- 🐍 Python | JavaScript | Bash | PowerShell  
+- 🐍 Python | JavaScript | Bash | PowerShell | Rust  
 - 🗄️ SQL (PostgreSQL, MySQL)  
 - ⚡ Regex & YARA for Threat Detection  
 
