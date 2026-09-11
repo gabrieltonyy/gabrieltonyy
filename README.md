@@ -36,7 +36,7 @@
 <hr>
 
 <p>
-  🔥 <i>Hack the planet. Automate everything. Stay curious.</i> 🚀
+  🚀 <i>Hack the planet. Automate everything. Stay curious.</i> 🏂
 </p>
 
 <br>
