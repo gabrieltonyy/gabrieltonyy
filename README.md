@@ -2,10 +2,10 @@
 
 <h1>WELCOME</h1>
 
-<h3>Penetration Tester | Developer | Aspiring Cloud Practitioner</h3>
+<h3>Penetration Tester | Developer | Aspiring Security Cloud Practitioner</h3>
 
 <img
-  src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&center=true&vCenter=true&width=650&lines=Learning+Cloud+Infrastructure;Breaking+Things+to+Understand+How+They+Work;Security+is+a+Continuous+Journey;Each+Day%2C+I+Add+a+Little+More+to+What+I+Knew+Yesterday"
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&center=true&vCenter=true&width=650&lines=Security+is+a+Continuous+Journey;Each+Day%2C+I+Add+a+Little+More+to+What+I+Knew+Yesterday;Breaking+Things+to+Understand+How+They+Work;Currently+Learning+Cloud+Infrastructure"
   alt="Typing SVG"
 />
 <br>
